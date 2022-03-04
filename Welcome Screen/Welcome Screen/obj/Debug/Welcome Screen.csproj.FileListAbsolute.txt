@@ -1,0 +1,7 @@
+C:\Users\Eric Tashji\source\repos\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.exe.config
+C:\Users\Eric Tashji\source\repos\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.exe
+C:\Users\Eric Tashji\source\repos\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.pdb
+C:\Users\Eric Tashji\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.csproj.AssemblyReference.cache
+C:\Users\Eric Tashji\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.exe
+C:\Users\Eric Tashji\source\repos\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.pdb
