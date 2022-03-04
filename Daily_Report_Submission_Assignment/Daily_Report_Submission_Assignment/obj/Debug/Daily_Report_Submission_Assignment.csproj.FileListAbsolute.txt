@@ -1,0 +1,7 @@
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report_Submission_Assignment\Daily_Report_Submission_Assignment\bin\Debug\Daily_Report_Submission_Assignment.exe.config
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report_Submission_Assignment\Daily_Report_Submission_Assignment\bin\Debug\Daily_Report_Submission_Assignment.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report_Submission_Assignment\Daily_Report_Submission_Assignment\bin\Debug\Daily_Report_Submission_Assignment.pdb
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report_Submission_Assignment\Daily_Report_Submission_Assignment\obj\Debug\Daily_Report_Submission_Assignment.csproj.AssemblyReference.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report_Submission_Assignment\Daily_Report_Submission_Assignment\obj\Debug\Daily_Report_Submission_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report_Submission_Assignment\Daily_Report_Submission_Assignment\obj\Debug\Daily_Report_Submission_Assignment.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\Daily_Report_Submission_Assignment\Daily_Report_Submission_Assignment\obj\Debug\Daily_Report_Submission_Assignment.pdb
