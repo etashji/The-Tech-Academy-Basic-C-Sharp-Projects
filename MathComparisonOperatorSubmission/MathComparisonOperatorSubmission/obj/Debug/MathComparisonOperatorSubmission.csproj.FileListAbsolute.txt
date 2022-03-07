@@ -1,0 +1,7 @@
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\MathComparisonOperatorSubmission\MathComparisonOperatorSubmission\bin\Debug\MathComparisonOperatorSubmission.exe.config
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\MathComparisonOperatorSubmission\MathComparisonOperatorSubmission\bin\Debug\MathComparisonOperatorSubmission.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\MathComparisonOperatorSubmission\MathComparisonOperatorSubmission\bin\Debug\MathComparisonOperatorSubmission.pdb
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\MathComparisonOperatorSubmission\MathComparisonOperatorSubmission\obj\Debug\MathComparisonOperatorSubmission.csproj.AssemblyReference.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\MathComparisonOperatorSubmission\MathComparisonOperatorSubmission\obj\Debug\MathComparisonOperatorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\MathComparisonOperatorSubmission\MathComparisonOperatorSubmission\obj\Debug\MathComparisonOperatorSubmission.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\MathComparisonOperatorSubmission\MathComparisonOperatorSubmission\obj\Debug\MathComparisonOperatorSubmission.pdb
