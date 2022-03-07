@@ -1,0 +1,7 @@
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\bin\Debug\ConsoleAppSubmissionAssignment.exe.config
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\bin\Debug\ConsoleAppSubmissionAssignment.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\bin\Debug\ConsoleAppSubmissionAssignment.pdb
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.pdb
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.csproj.AssemblyReference.cache
