@@ -1,0 +1,7 @@
+C:\Users\Eric Tashji\source\repos\StringAssigment\StringAssigment\bin\Debug\StringAssigment.exe.config
+C:\Users\Eric Tashji\source\repos\StringAssigment\StringAssigment\bin\Debug\StringAssigment.exe
+C:\Users\Eric Tashji\source\repos\StringAssigment\StringAssigment\bin\Debug\StringAssigment.pdb
+C:\Users\Eric Tashji\source\repos\StringAssigment\StringAssigment\obj\Debug\StringAssigment.csproj.AssemblyReference.cache
+C:\Users\Eric Tashji\source\repos\StringAssigment\StringAssigment\obj\Debug\StringAssigment.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\StringAssigment\StringAssigment\obj\Debug\StringAssigment.exe
+C:\Users\Eric Tashji\source\repos\StringAssigment\StringAssigment\obj\Debug\StringAssigment.pdb
