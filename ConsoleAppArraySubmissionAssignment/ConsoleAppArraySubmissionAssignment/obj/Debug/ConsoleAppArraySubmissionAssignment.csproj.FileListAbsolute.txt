@@ -1,0 +1,6 @@
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssignment\ConsoleAppArraySubmissionAssignment\bin\Debug\ConsoleAppArraySubmissionAssignment.exe.config
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssignment\ConsoleAppArraySubmissionAssignment\bin\Debug\ConsoleAppArraySubmissionAssignment.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssignment\ConsoleAppArraySubmissionAssignment\bin\Debug\ConsoleAppArraySubmissionAssignment.pdb
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssignment\ConsoleAppArraySubmissionAssignment\obj\Debug\ConsoleAppArraySubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssignment\ConsoleAppArraySubmissionAssignment\obj\Debug\ConsoleAppArraySubmissionAssignment.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssignment\ConsoleAppArraySubmissionAssignment\obj\Debug\ConsoleAppArraySubmissionAssignment.pdb
