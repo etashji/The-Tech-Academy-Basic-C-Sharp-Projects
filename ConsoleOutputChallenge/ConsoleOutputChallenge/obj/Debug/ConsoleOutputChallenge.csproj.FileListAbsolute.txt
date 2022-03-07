@@ -1,0 +1,7 @@
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleOutputChallenge\ConsoleOutputChallenge\bin\Debug\ConsoleOutputChallenge.exe.config
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleOutputChallenge\ConsoleOutputChallenge\bin\Debug\ConsoleOutputChallenge.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleOutputChallenge\ConsoleOutputChallenge\bin\Debug\ConsoleOutputChallenge.pdb
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.csproj.AssemblyReference.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.pdb
