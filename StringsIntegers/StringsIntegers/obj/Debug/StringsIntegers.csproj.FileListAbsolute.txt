@@ -1,0 +1,7 @@
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\bin\Debug\StringsIntegers.exe.config
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\bin\Debug\StringsIntegers.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\bin\Debug\StringsIntegers.pdb
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\obj\Debug\StringsIntegers.csproj.AssemblyReference.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\obj\Debug\StringsIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\obj\Debug\StringsIntegers.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\obj\Debug\StringsIntegers.pdb
