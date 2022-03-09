@@ -9,17 +9,23 @@ namespace MethodSubmissionAssignment
     class Program
     {
         static void Main(string[] args)
-        {   
-                Math math = new Math();
-                Console.WriteLine("What is your first number? ");
-                int input1 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("What is your second number? Note: this number is optional.");
+        {
+            Math math = new Math();
+            Console.WriteLine("What is your first number? ");
+            int input1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("What is your second number? Note: this number is optional.");
+            try
+            {
                 int input2 = Convert.ToInt32(Console.ReadLine());
-
-
-                int answer = math.Addition(input1); 
+                int answer = math.Addition(input1, input2);
                 Console.WriteLine(answer);
-                Console.ReadLine();
+            }
+            catch
+            {
+                int answer = math.Addition(input1);
+                Console.WriteLine(answer);
+            }
+            Console.ReadLine();
         }
     }
 }
