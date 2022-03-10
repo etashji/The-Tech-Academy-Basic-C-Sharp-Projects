@@ -1,0 +1,6 @@
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.exe.config
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.pdb
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.pdb
