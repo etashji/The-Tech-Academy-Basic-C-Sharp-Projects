@@ -29,10 +29,11 @@ namespace ClassSubmissionAssignment
             Console.WriteLine(math.Division(input1, input2));
 
             Console.WriteLine("The output for my static class is: ");
-            math.Static2();
+            Static.Method();
 
             Console.ReadLine();
         }   
 
     }
+   
 }
