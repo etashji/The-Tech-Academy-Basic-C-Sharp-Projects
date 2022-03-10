@@ -8,11 +8,11 @@ namespace MethodsObjectsSubmissionAssignment
 {
     public class Employee : Person
     {
-        public int Id { get; set; }
+        public int Id { get; set; } //This creates the Id property.
 
-        public void SayID()
+        public void SayID() //This implements the SayID() property.
         {
-            Console.WriteLine("ID: [" + Id + "]");
+            Console.WriteLine("ID: [" + Id + "]"); //This ensures the console reads "ID: [Id]."
         }
     }
 }
