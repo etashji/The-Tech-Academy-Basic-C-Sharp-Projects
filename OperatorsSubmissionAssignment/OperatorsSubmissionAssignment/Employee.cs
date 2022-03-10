@@ -13,27 +13,16 @@ namespace OperatorsSubmissionAssignment
 
         public int Id { get; set; } //This sets the Id property in the Employee class.
 
-        public override bool Equals(object obj) //This is an override so the == operator can be overloaded by Employee.
+        public static bool operator== (Employee employee1, Employee employee2) //This overloads the == operator.
         {
-            return Equals(obj as Employee); //This works with the above statement.
+            bool result = employee1.Id == employee2.Id; //This displays whether the Id for employee1 and employee2 are true.
+            return result; //This returns the result.
         }
 
-
-        public override int GetHashCode() //This overrides the GetHashCode so the == operater can be overloaded by Employee.
+        public static bool operator != (Employee employee1, Employee employee2) //This overloads the != operator.
         {
-            return 2108858624 + Id.GetHashCode(); //This provides a default number to assist the above statement.
-        }
-
-        public static Employee operator== (Employee employee1, Employee employee2) //This overloads the == operator.
-        {
-            employee1.Id.Equals(employee2.Id); //This displays whether the Id for employee1 and employee2 are true.
-            return employee1; //This returns the result.
-        }
-
-        public static Employee operator != (Employee employee1, Employee employee2) //This overloads the != operator.
-        {
-            employee1.Id.Equals(employee2.Id); //This displays whether the id for employee1 and employee2 are equal.
-            return employee1; //This returns the result.
+            bool result = employee1.Id != employee2.Id; //This displays whether the id for employee1 and employee2 are equal.
+            return result;
         }
     }
 }

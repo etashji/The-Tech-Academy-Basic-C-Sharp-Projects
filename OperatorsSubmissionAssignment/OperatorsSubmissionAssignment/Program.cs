@@ -17,7 +17,7 @@ namespace OperatorsSubmissionAssignment
             employee2.Id = 12345; //This defines the Id property for employee2.
 
             Console.WriteLine("It is:"); //This writes "It is:" to the console.
-            Console.WriteLine(employee1.Id == employee2.Id); //This determines whether the Id properties for employee1 and employee2 are the same.
+            Console.WriteLine(employee1 == employee2); //This determines whether the Id properties for employee1 and employee2 are the same.
             Console.WriteLine("that employee1 is equal to employee 2."); //This writes "that employee1 is equal to employee2."
             Console.ReadLine(); //This ensures the console stays open.
         }
