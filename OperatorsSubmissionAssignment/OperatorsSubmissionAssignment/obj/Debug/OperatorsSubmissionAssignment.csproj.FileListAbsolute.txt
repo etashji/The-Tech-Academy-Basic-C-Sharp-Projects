@@ -1,0 +1,7 @@
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\bin\Debug\OperatorsSubmissionAssignment.exe.config
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\bin\Debug\OperatorsSubmissionAssignment.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\bin\Debug\OperatorsSubmissionAssignment.pdb
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.pdb
