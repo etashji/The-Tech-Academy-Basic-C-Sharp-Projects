@@ -16,14 +16,19 @@ namespace ParametersAssignment
             employee1.Things.Add("Goodbye");
 
             Employee<int> employee2 = new Employee<int>();
-            employee2.Things = new List<string>();
+            employee2.Things = new List<int>();
             employee2.Things.Add(1);
             employee2.Things.Add(2);
 
-            foreach (Employee<string> thing in employee2.Things)
+            foreach (string i in employee1.Things)
             {
-
+                Console.WriteLine(i);
             }
+            foreach (int i in employee2.Things)
+            {
+                Console.WriteLine(i);
+            }
+            Console.ReadLine();
         }
     }
 }
