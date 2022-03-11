@@ -11,13 +11,19 @@ namespace ParametersAssignment
         static void Main(string[] args)
         {
             Employee<string> employee1 = new Employee<string>();
+            employee1.Things = new List<string>();
             employee1.Things.Add("Hello");
             employee1.Things.Add("Goodbye");
 
             Employee<int> employee2 = new Employee<int>();
-            List<int> things2 = employee2.Things;
+            employee2.Things = new List<string>();
             employee2.Things.Add(1);
             employee2.Things.Add(2);
+
+            foreach (Employee<string> thing in employee2.Things)
+            {
+
+            }
         }
     }
 }

@@ -16,10 +16,10 @@ namespace TwentyOne
 
         public virtual void ListPlayers()
         {
-            foreach (string player in Players)
-            {
-                Console.WriteLine(player);
-            }
+            //foreach (string player in Players)
+            //{
+            //    Console.WriteLine(player);
+            //}
         }
     }
 }
