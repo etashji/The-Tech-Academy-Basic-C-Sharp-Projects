@@ -10,6 +10,5 @@ namespace ParametersAssignment
     {
         public List<T> Things { get; set; }
 
-
     }
 }

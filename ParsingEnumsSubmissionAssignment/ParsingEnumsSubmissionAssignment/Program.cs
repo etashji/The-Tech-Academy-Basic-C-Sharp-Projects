@@ -12,7 +12,16 @@ namespace ParsingEnumsSubmissionAssignment
         {
             Console.WriteLine("What is the current day of the week?");
             string day = Console.ReadLine();
-            Enum.Parse()
+            try 
+            {
+                DaysOfTheWeek day1 = Enum.Parse<DaysOfTheWeek>(day);
+                Console.WriteLine(day1);
+            }
+            catch
+            {
+                Console.WriteLine("Please put in a day of the week.");
+            }
+
             Console.ReadLine();
         }
         public enum DaysOfTheWeek
