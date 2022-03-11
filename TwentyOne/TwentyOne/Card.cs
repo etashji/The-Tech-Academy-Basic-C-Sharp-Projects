@@ -31,6 +31,7 @@ namespace TwentyOne
         Ten,
         Jack,
         Queen,
-        King
+        King,
+        Ace
     }
 }
