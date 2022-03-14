@@ -1,0 +1,7 @@
+C:\Users\Eric Tashji\source\repos\InputAssignmnet\InputAssignmnet\bin\Debug\InputAssignmnet.exe.config
+C:\Users\Eric Tashji\source\repos\InputAssignmnet\InputAssignmnet\bin\Debug\InputAssignmnet.exe
+C:\Users\Eric Tashji\source\repos\InputAssignmnet\InputAssignmnet\bin\Debug\InputAssignmnet.pdb
+C:\Users\Eric Tashji\source\repos\InputAssignmnet\InputAssignmnet\obj\Debug\InputAssignmnet.csproj.AssemblyReference.cache
+C:\Users\Eric Tashji\source\repos\InputAssignmnet\InputAssignmnet\obj\Debug\InputAssignmnet.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\InputAssignmnet\InputAssignmnet\obj\Debug\InputAssignmnet.exe
+C:\Users\Eric Tashji\source\repos\InputAssignmnet\InputAssignmnet\obj\Debug\InputAssignmnet.pdb
