@@ -1,0 +1,7 @@
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.exe.config
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.pdb
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.pdb
