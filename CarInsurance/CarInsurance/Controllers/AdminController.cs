@@ -18,7 +18,7 @@ namespace CarInsurance.Controllers
             using (InsuranceEntities db = new InsuranceEntities())
             {
                 var insurees = (from c in db.Insurees select c).ToList();
-                var insureeVms = new List<InsureeVm>();
+                IEnumerable<InsureeVm> insureeVms = new List<InsureeVm>();
                 foreach (var insuree in insurees)
                 {
                     var insureeVm = new InsureeVm();
@@ -26,7 +26,7 @@ namespace CarInsurance.Controllers
                     insureeVm.FirstName = insuree.FirstName;
                     insureeVm.LastName = insuree.LastName;
                     insureeVm.EmailAddress = insuree.EmailAddress;
-                    insureeVms.Add(insureeVm);
+                    insureeVms.MoveNext(insureeVm);
                 }
                 return View(insureeVms);
             }
