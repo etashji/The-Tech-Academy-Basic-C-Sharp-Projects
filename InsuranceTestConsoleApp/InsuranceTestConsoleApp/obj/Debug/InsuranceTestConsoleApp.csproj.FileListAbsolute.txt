@@ -1,0 +1,7 @@
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceTestConsoleApp\InsuranceTestConsoleApp\bin\Debug\InsuranceTestConsoleApp.exe.config
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceTestConsoleApp\InsuranceTestConsoleApp\bin\Debug\InsuranceTestConsoleApp.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceTestConsoleApp\InsuranceTestConsoleApp\bin\Debug\InsuranceTestConsoleApp.pdb
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceTestConsoleApp\InsuranceTestConsoleApp\obj\Debug\InsuranceTestConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceTestConsoleApp\InsuranceTestConsoleApp\obj\Debug\InsuranceTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceTestConsoleApp\InsuranceTestConsoleApp\obj\Debug\InsuranceTestConsoleApp.exe
+C:\Users\Eric Tashji\source\repos\etashji\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceTestConsoleApp\InsuranceTestConsoleApp\obj\Debug\InsuranceTestConsoleApp.pdb
