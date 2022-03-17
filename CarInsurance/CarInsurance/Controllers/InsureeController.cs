@@ -50,7 +50,6 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Insurees.Add(insuree);
                 insuree.Quote = 50;
                 bool hadBirthdayMonth = false;
                 bool hadBirthdayDay = false;
@@ -104,12 +103,13 @@ namespace CarInsurance.Controllers
                 insuree.Quote += insuree.SpeedingTickets * 10;
                 if (insuree.DUI == true)
                 {
-                    decimal.Multiply(insuree.Quote, 1.25m);
+                    insuree.Quote = decimal.Multiply(insuree.Quote, 1.25m);
                 }
                 if (insuree.CoverageType == true)
                 {
-                    decimal.Multiply(insuree.Quote, 1.5m);
+                    insuree.Quote = decimal.Multiply(insuree.Quote, 1.5m);
                 }
+                db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
