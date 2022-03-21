@@ -209,6 +209,23 @@
     IWalkAway: This is the IWalkAway class.
     Player.cs: This is the Player class.
     TwentyOneDealer.cs: This is the TwentyOneDealer class.
+    TwentyOneGame.cs: This is the TwentyOneGame class.
+    TwentyOneRules.cs: This is the TwentyOneRules class.
+  ### TwentyOne
+    Program.cs: This program is a blackjack casino game.
+## VariablesAndDataTypes
+  ### VariablesAndDataTypes
+    Program.cs: This program makes use of variable and data types.
+## WebApplication1
+  ### WebApplication1
+    Program.cs: This is a basic ASP.NET web application.
+## WebApplication13
+  ### WebApplication13
+    Program.cs: This is a basic ASP.NET web application.
+## WelcomeScreen
+  ### WelcomeScreen
+    Program.cs: This is a basic welcome screen console application.
+  
   
       
       
