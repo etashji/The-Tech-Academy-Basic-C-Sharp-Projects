@@ -127,7 +127,94 @@
   ### MethodSubmissionAssignment
     Math.cs: This is the math class.
     Program.cs: This is an assignment that uses a number of C Sharp operators.
-## 
+## MethodsObjectsSubmissionAssignment
+  ### MethodsObjectsSubmissionAssignment
+    Person.cs: This creates the person class.
+    Program.cs: This is a program that makes use of methods and objects.
+## NewsletterAppMVC
+  ### NewsletterAppMVC
+    Controllers
+      AdminController.cs: This is the controller for the admin view.
+      HomeController.cs: This is the controller for the home view.
+    Models
+      SignUp.cs: This is the signup model.
+    ViewModels
+      SignupVm.cs: This is the signup viewmodel.
+    Views
+      Admin
+        Index.cshtml: This is the index for the admin page.
+## OperatorChallenge
+  ### OperatorChallenge
+    Program.cs: This is a challenge that uses operators.
+## OperatorsSubmissionAssignment
+  ### OperatorsSubmissionAssignment
+    Employee.cs: This is the Employee class.
+    Program.cs: This is an assignment that uses operators.
+## ParametersAssignment
+  ### ParametersAssignment
+    Employee.cs: This is the employee class.
+    Program.cs: This is an assignment which makes use of parameters.
+## ParsingEnumsSubmissionAssignment
+  ### ParsingEnumsSubmissionAssignment
+    Program.cs: This is an assignment which allows me to parse enums.
+## PolymorphismSubmissionAssignment
+  ### PolymorphismSubmissionAssignment
+    Employee.cs: This is the Employee class.
+    IQuittable.cs: This is the IQuittable class.
+    Program.cs: This is an assignment which makes use of polymorphism.
+## Scores
+  ### Scores
+    Program.cs: This is a program that writes student's test scores to a .txt file.
+    studentScores.txt: This is the text file that the program writes to.
+## StringAssigment
+  ### StringAssigment
+    Program.cs: This is an assignment that takes user input and puts it into a string, using a variety of formats.
+## StringsIntegers
+  ### StringsIntegers
+    Program.cs: This is a program that makes use of strings and integers.
+## StructAssignment
+  ### StructAssignment
+    Program.cs: This is an assignment that makes use of structs.
+## SwitchChallenge
+  ### SwitchChallenge
+    Program.cs: This is a challenge that makes use of the switch method.
+## TechAcadStudentsMVC
+  ### TechAcadStudentsMVC
+    Controllers
+      HomeController.cs: This is the controller for the home view.
+      StudentsController.cs: This is the controller for the students view.
+    Models
+      Instructor.cs: This is the instructor model.
+    Views
+      Home
+        Index.cshtml: This project is a MVC project which shows Tech Academy students and instructors.
+        Instructor.cshtml: This give details on each individual instructor.
+        Instructor.cshtml: This shows a list of all instructors.
+      Students
+        Index.cshtml: This page shows all Tech Academy Students.
+## TernaryOperatorChallenge
+  ### TernaryOperatorChallenge
+    Program.cs: This is a challenge that uses ternary operators.
+## TryCatchAssignment
+  ### TryCatchAssignment
+    Program.cs: This is an assignment which makes use of try/catch statements.
+    ZeroNegativeException.cs: This is the ZeroNegativeException class.
+## TwentyOne
+  ### Casino
+    Card.cs: This is the card class.
+    Dealer.cs: This is the dealer class.
+    Deck.cs: This is the deck class.
+    FraudException.cs: This is the FraudException class.
+    Game.cs: This is the Game class.
+    IWalkAway: This is the IWalkAway class.
+    Player.cs: This is the Player class.
+    TwentyOneDealer.cs: This is the TwentyOneDealer class.
+  
+      
+      
+    
+ 
+    
     
     
     
